@@ -1,5 +1,5 @@
 
-	https://codepen.io/jahannamiddleton1/pen/bGGoqRr
+https://codepen.io/jahannamiddleton1/pen/bGGoqRr
 
     1. What is Semantic HTML?
 	Semantic HTML gives meaning to a web page.
