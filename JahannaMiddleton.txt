@@ -1,8 +1,8 @@
 
-	https://codepen.io/jahannamiddleton1/pen/bGGoqRr
+https://codepen.io/jahannamiddleton1/pen/bGGoqRr
 
     1. What is Semantic HTML?
-	Semantic HTML gives meaning toa web page.
+	Semantic HTML gives meaning to a web page.
  
     2. What is HTML used for?
 	HTML is used to structure the page and give meaning.
@@ -121,11 +121,19 @@
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
-    2. What happens when an element is positioned absolutely? 
-    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
-    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
-    5. In your own words, explain the box model. What is the fix for the box model? 
+A block-level element is an HTML element that begins a new line on a web page and extends the full width of the available horizontal space of its parent element.Inline elements,however, do not start a new line and its width only extends as far as it is defined by its tags. 
 
+    2. 
+ An absolutely positioned element is an element whose position is absolute or fixed.
+
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+        The use of a container such as a section or div would allow an element to take up as much space as it needs while still allowing the width to be adjusted.
+
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default.
+
+
+    5. In your own words, explain the box model. What is the fix for the box model? 
+        Essentially, all elements are wrapped within a box. This box consists of margins, borders, padding etc. that can be adjusted.
 
 
 
